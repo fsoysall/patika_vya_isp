@@ -1,6 +1,6 @@
 # [PATIKA.DEV : Veri Yapıları ve Algoritmalar >Insertion Sort Projesi ](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
 
-## 1)
+## 1) Aşamalar:
 ```
 	[22,27,16,2,18,6] -> Insertion Sort
 	[22,27,16,2,18,6] -> Insertion Sort
@@ -27,10 +27,10 @@
 	b.c. : O(n)
 ```
 
-## 4) [2,16,6,18,22,27] 
+## 4) [2,16,6,18,22,27] 18'in durumu
 ```18 sayısı Ortalarda olduğu için averace case kapsamındadır
 ```	
-## 5) [7,3,5,8,2,9,4,15,6]
+## 5) [7,3,5,8,2,9,4,15,6] ilk 4 basamak
 ```
 [3,7,5,8,2,9,4,15,6]
 [3,5,7,8,2,9,4,15,6]
